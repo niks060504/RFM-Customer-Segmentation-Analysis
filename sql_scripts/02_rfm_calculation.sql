@@ -14,7 +14,6 @@
 
 
 
-
 /*
     > Recency (R): How recently has the customer made a purchase?
     > Frequency (F): How often do they purchase?
