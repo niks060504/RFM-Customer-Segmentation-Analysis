@@ -5,6 +5,9 @@
 
 ### Project Summary
 This project is an end-to-end data analysis of an e-commerce dataset to segment customers using an **RFM model**. The goal is to identify high-value and at-risk customer groups and provide actionable marketing strategies, with the final output being a **dynamic, interactive BI dashboard**.
+### Live Project Links
+* **View the Interactive Dashboard:** [Looker Studio Report](https://lookerstudio.google.com/reporting/aef3a781-055b-4704-825f-5e71351c6bfa)
+* **View the Full Portfolio:** [My Professional Website](https://sites.google.com/view/amitesh-singh-analytics/)
 
 ### Business Problem
 A mid-sized global e-commerce retailer was experiencing a noticeable increase in **customer churn**. The company lacked a data-driven method to understand the purchasing behavior of different customer groups, making it difficult to target marketing efforts effectively and prevent valuable customers from leaving. This project aims to solve that problem by creating a robust customer segmentation model.
@@ -14,6 +17,9 @@ A mid-sized global e-commerce retailer was experiencing a noticeable increase in
 * **Language:** SQL
 * **BI & Visualization:** Google Looker Studio
 * **Collaboration:** Google Slides, Google Docs
+
+### Data Source
+The dataset used for this analysis is the "Online Retail II" dataset, publicly available from the UCI Machine Learning Repository. You can find the dataset on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
 
 ### Project Workflow
 The project followed the complete data analytics lifecycle:
@@ -33,7 +39,7 @@ The final analysis provided several critical insights:
 * **Actionable Insights Delivered:** The marketing team is now empowered with a tool to visualize and filter customer segments in real-time for targeted campaigns.
 * **Hibernating Customers:** The largest group by count is **'Hibernating'** customers (**1,521 total**), representing a significant opportunity for re-engagement.
 
-### Final Dashboard [**[Link]**](https://lookerstudio.google.com/reporting/aef3a781-055b-4704-825f-5e71351c6bfa)
+### Final Dashboard
 <img width="744" height="432" alt="{13172C85-3F2B-4033-B8DE-74818E88B2F3}" src="https://github.com/itsmeamitesh01/RFM-Customer-Segmentation-Analysis/blob/main/assets/dashboard.png" />
 
 ### SQL Scripts
