@@ -11,6 +11,8 @@
 -- DATE: September 10, 2025
 *************************************************************************************************/
 
+
+
 -- Write a single SQL query that selects data from ecommerce.raw_transactions and creates a new table ecommerce.transactions_cleaned with the results.
 
 CREATE TABLE `crsm-471015.ecommerce.trans_clean` AS
