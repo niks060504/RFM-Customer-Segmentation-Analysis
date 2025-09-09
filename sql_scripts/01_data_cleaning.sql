@@ -12,7 +12,6 @@ AND UnitPrice > 0;
     1) What is the total number of rows in the new transactions_cleaned table?
     2) How many rows in the new table have a NULL CustomerID? (The answer should be 0).
     3) What are the minimum Quantity and minimum UnitPrice in the new table? (The answer should be > 0 for both).
-
 */
 
 SELECT COUNT(*) Total_Rows, MIN(Quantity) min_quantity, MIN(UnitPrice) min_unitprice
