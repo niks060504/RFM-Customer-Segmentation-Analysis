@@ -1,13 +1,11 @@
-# RFM Customer Segmentation & Retention Analysis
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-### Author: Amitesh Singh | <a href="https://www.linkedin.com/in/amiteshsingh2001/">LinkedIn</a>
+# RFM Customer Segmentation & Retention Analysis [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+### Author: Amitesh Singh | [LinkedIn](https://www.linkedin.com/in/amiteshsingh2001/) | [Portfolio](https://sites.google.com/view/amitesh-singh-analytics)
 ---
 
 ### Project Summary
 This project is an end-to-end data analysis of an e-commerce dataset to segment customers using an **RFM model**. The goal is to identify high-value and at-risk customer groups and provide actionable marketing strategies, with the final output being a **dynamic, interactive BI dashboard**.
 ### Live Project Links
-* **View the Interactive Dashboard:** [Looker Studio Report](https://lookerstudio.google.com/reporting/aef3a781-055b-4704-825f-5e71351c6bfa)
-* **View the Full Portfolio:** [My Professional Website](https://sites.google.com/view/amitesh-singh-analytics/)
+* **View the Interactive Dashboard:** [Looker Studio Report]
 
 ### Business Problem
 A mid-sized global e-commerce retailer was experiencing a noticeable increase in **customer churn**. The company lacked a data-driven method to understand the purchasing behavior of different customer groups, making it difficult to target marketing efforts effectively and prevent valuable customers from leaving. This project aims to solve that problem by creating a robust customer segmentation model.
@@ -39,8 +37,13 @@ The final analysis provided several critical insights:
 * **Actionable Insights Delivered:** The marketing team is now empowered with a tool to visualize and filter customer segments in real-time for targeted campaigns.
 * **Hibernating Customers:** The largest group by count is **'Hibernating'** customers (**1,521 total**), representing a significant opportunity for re-engagement.
 
-### Final Dashboard
-<img width="744" height="432" alt="{13172C85-3F2B-4033-B8DE-74818E88B2F3}" src="https://github.com/itsmeamitesh01/RFM-Customer-Segmentation-Analysis/blob/main/assets/dashboard.png" />
+### Interactive Dashboard
+
+A dynamic dashboard was developed in **Google Looker Studio** to serve as a strategic tool for the marketing team. It translates the complex RFM model into an intuitive visual interface, allowing stakeholders to instantly identify and analyze the value of all nine customer segments. The dashboard is equipped with an interactive filter to enable data-driven decisions for targeted retention and loyalty campaigns.
+
+**[View the Live Interactive Dashboard](https://lookerstudio.google.com/reporting/aef3a781-055b-4704-825f-5e71351c6bfa)**
+
+![Dashboard Screenshot](https://github.com/itsmeamitesh01/RFM-Customer-Segmentation-Analysis/blob/main/assets/dashboard.png)
 
 ### SQL Scripts
 The SQL queries used for each step of the analysis can be found in the `sql_scripts/` directory of this repository. The scripts are numbered in the order they should be run.
