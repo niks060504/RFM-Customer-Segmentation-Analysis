@@ -4,8 +4,6 @@
 
 ### Project Summary
 This project is an end-to-end data analysis of an e-commerce dataset to segment customers using an **RFM model**. The goal is to identify high-value and at-risk customer groups and provide actionable marketing strategies, with the final output being a **dynamic, interactive BI dashboard**.
-### Live Project Links
-* **View the Interactive Dashboard:** [Looker Studio Report]
 
 ### Business Problem
 A mid-sized global e-commerce retailer was experiencing a noticeable increase in **customer churn**. The company lacked a data-driven method to understand the purchasing behavior of different customer groups, making it difficult to target marketing efforts effectively and prevent valuable customers from leaving. This project aims to solve that problem by creating a robust customer segmentation model.
@@ -45,5 +43,3 @@ A dynamic dashboard was developed in **Google Looker Studio** to serve as a stra
 
 ![Dashboard Screenshot](https://github.com/itsmeamitesh01/RFM-Customer-Segmentation-Analysis/blob/main/assets/dashboard.png)
 
-### SQL Scripts
-The SQL queries used for each step of the analysis can be found in the `sql_scripts/` directory of this repository. The scripts are numbered in the order they should be run.
