@@ -1,3 +1,15 @@
+/*************************************************************************************************
+-- PROJECT: RFM Customer Segmentation Analysis
+-- SCRIPT: 04_final_segmentation.sql
+-- DESCRIPTION: This is the final analytical script. It uses a CASE statement to assign a
+--              human-readable segment name to each customer based on their R, F, and M scores.
+--              These segments are the final output used in the BI dashboard.
+-- AUTHOR: Amitesh Kumar Singh
+-- DATE: September 10, 2025
+*************************************************************************************************/
+
+
+
 /*
   Your goal is to create one last table, customer_segments, that contains all the information from your customer_rfm_scores table, plus a final segment name.
 
