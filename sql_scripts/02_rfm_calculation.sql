@@ -1,3 +1,20 @@
+/*************************************************************************************************
+-- PROJECT: RFM Customer Segmentation Analysis
+-- SCRIPT: 02_rfm_calculation.sql
+-- DESCRIPTION: This script transforms the cleaned transaction data into a customer-centric view.
+--              It calculates the raw Recency, Frequency, and Monetary (RFM) values for each
+--              unique customer.
+-- METHODOLOGY:
+--    - Recency: Days since the customer's last purchase from the dataset's most recent date.
+--    - Frequency: Count of distinct invoices for each customer.
+--    - Monetary: Sum of total line revenue for each customer.
+-- AUTHOR: Amitesh Kumar Singh
+-- DATE: September 10, 2025
+*************************************************************************************************/
+
+
+
+
 /*
     > Recency (R): How recently has the customer made a purchase?
     > Frequency (F): How often do they purchase?
