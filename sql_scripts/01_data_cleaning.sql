@@ -1,3 +1,16 @@
+/*************************************************************************************************
+-- PROJECT: RFM Customer Segmentation Analysis
+-- SCRIPT: 01_data_cleaning.sql
+-- DESCRIPTION: This script performs the initial cleaning of the raw e-commerce transaction data.
+--              It filters out invalid records and engineers the 'line_revenue' feature.
+-- BUSINESS RULES:
+--    1. Exclude transactions with a NULL CustomerID.
+--    2. Exclude transactions with a quantity of 0 or less (returns).
+--    3. Exclude transactions with a unit price of 0 or less.
+-- AUTHOR: Amitesh Kumar Singh
+-- DATE: September 10, 2025
+*************************************************************************************************/
+
 -- Write a single SQL query that selects data from ecommerce.raw_transactions and creates a new table ecommerce.transactions_cleaned with the results.
 
 CREATE TABLE `crsm-471015.ecommerce.trans_clean` AS
